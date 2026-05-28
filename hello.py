@@ -12,7 +12,6 @@
 
 
 
-
 # age = input("Enter a age: ")
 
 # age = int(age)
@@ -29,19 +28,21 @@
 #multiline string not possible with "" or ''
 name = "pranay himanshu"
 
-name = '''
+'''
 Fruits
     banana
     apple
+        green apple
+        red apple
+
 Vegetables
     ladij finger
     bangan
 
 
-
 '''
 
-print(name)
+
 
 
 
